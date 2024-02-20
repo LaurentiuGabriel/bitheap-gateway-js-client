@@ -1,0 +1,30 @@
+{
+  "name": "bitheap-gateway-client",
+  "version": "1.0.0",
+  "description": "A bitcoin payment system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurentiuGabriel/bitheap-gateway-js-client.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "payment",
+    "system",
+    "bitcoin",
+    "stripe",
+    "bitheap"
+  ],
+  "author": "Larentiu Raducu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurentiuGabriel/bitheap-gateway-js-client/issues"
+  },
+  "homepage": "https://github.com/LaurentiuGabriel/bitheap-gateway-js-client#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
